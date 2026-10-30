@@ -78,7 +78,7 @@
           "muted": true,
           "controls": false,
           "widthPercent": 94,
-          "maxWidthDp": 960,
+          "maxWidthDp": 760,
           "contentScale": "fit",
           "cornerRadiusDp": 24,
           "clickable": true,
