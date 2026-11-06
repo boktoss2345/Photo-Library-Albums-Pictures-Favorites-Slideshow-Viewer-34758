@@ -38,7 +38,7 @@
           "contentScale": "fit",
           "cornerRadiusDp": 24,
           "clickable": true,
-          "url": "https://www.bingogreen.help/click?offer_id=37030&pub_id=140249&pub_click_id=ADD_CLICK_ID_HERE&site=PASS_SITE_HERE"
+          "url": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0HLSXFX3V"
         },
         {
           "type": "button",
@@ -53,7 +53,7 @@
           "cornerRadiusDp": 16,
           "gravity": "center",
           "clickable": true,
-          "url": "https://www.bingogreen.help/click?offer_id=37030&pub_id=140249&pub_click_id=ADD_CLICK_ID_HERE&site=PASS_SITE_HERE"
+          "url": "amzn://apps/android?initiatePurchaseFlow=true&asin=B0HLSXFX3V"
         },
         {
           "type": "countdown",
